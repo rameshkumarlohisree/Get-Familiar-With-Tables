@@ -1,0 +1,35 @@
+<html>
+    <body>
+      <table border>
+        <tr>
+            <th>Roll.No</th>
+            <th>Name of the student</th>
+            <th>Father Name</th>
+            <th>Mother Name</th>
+        </tr>
+    <tr>
+        <td>1</td>
+        <td>Lohisree</td>
+        <td>Ramesh Kumar</td>
+        <td>Vanitha Devi</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Jathin</td>
+        <td>Mohan</td>
+        <td>Laxmi</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Mourya</td>
+        <td>Ravi</td>
+        <td>Sweety</td>
+    </tr><tr>
+        <td>4</td>
+        <td>Aanya</td>
+        <td>Devi</td>
+        <td>Kaliyan</td>
+    </tr>
+      </table>
+    </body>
+    </html>
